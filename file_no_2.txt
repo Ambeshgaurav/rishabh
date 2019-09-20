@@ -1,0 +1,9 @@
+Order_ID, Product, Category, Amount, Country
+10,Apple,Fruit,7431,Canada
+11,Banana,Fruit,8250,Germany
+12,Broccoli,Vegetables,7012,United States
+13,Carrots,Vegetables,1903,Germany
+14,Broccoli,Vegetables,2824,Canada
+15,Apple,Fruit,6946,France
+16,Banana,Fruit,2320,United Kingdom
+17,Banana,Fruit,2116,United States

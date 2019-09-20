@@ -1,0 +1,9 @@
+Order_ID, Product, Category, Amount, Country
+1,Carrots,Vegetables,4270,United States
+2,Broccoli,Vegetables,8239,United Kingdom
+3,Banana,Fruit,617,United States
+4,Banana,Fruit,8384,Canada
+5,Beans,Vegetables,2626,Germany
+6,Orange,Fruit,3610,United States
+7,Broccoli,Vegetables,9062,Australia
+8,Banana,Fruit,6906,New Zealand

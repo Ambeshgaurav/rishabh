@@ -1,0 +1,14 @@
+Order_ID, Product, Category, Amount, Country
+18,Banana,Fruit,1135,United Kingdom
+19,Broccoli,Vegetables,3595,United Kingdom
+20,Apple,Fruit,1161,United States
+21,Orange,Fruit,2256,France
+22,Banana,Fruit,1004,New Zealand
+23,Banana,Fruit,3642,Canada
+24,Banana,Fruit,4582,United States
+25,Beans,Vegetables,3559,United Kingdom
+26,Carrots,Vegetables,5154,Australia
+27,Mango,Fruit,7388,France
+28,Beans,Vegetables,7163,United States
+29,Beans,Vegetables,5101,Germany
+30,Apple,Fruit,7602,France
